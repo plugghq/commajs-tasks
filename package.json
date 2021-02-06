@@ -1,6 +1,6 @@
 {
   "name": "commajs-tasks",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Commajs - The WYSIWYG framework -  tasks plugin",
   "main": "dist/commajs-tasks.min.js",
   "repository": {
